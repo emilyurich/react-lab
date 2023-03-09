@@ -1,0 +1,12 @@
+.Ad {
+  text-align: center;
+  border: 3px solid pink;
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+}
+
+.Ad.dark {
+  background-color: black;
+  color: white;
+}
